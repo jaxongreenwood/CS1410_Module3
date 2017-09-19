@@ -36,3 +36,4 @@
 .gitignore
 .idea/workspace.xml
 cmake-build-debug/
+!/cmake-build-debug/JaxonGreenwoodHw2_Task1.cpp
